@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\bin\Debug\net6.0\task_29.exe
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\bin\Debug\net6.0\task_29.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\bin\Debug\net6.0\task_29.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\bin\Debug\net6.0\task_29.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\bin\Debug\net6.0\task_29.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\refint\task_29.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\task_29.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\task_29\obj\Debug\net6.0\ref\task_29.dll
