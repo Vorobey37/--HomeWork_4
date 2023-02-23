@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\bin\Debug\net6.0\bonus _task.exe
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\bin\Debug\net6.0\bonus _task.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\bin\Debug\net6.0\bonus _task.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\bin\Debug\net6.0\bonus _task.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\bin\Debug\net6.0\bonus _task.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\refint\bonus _task.dll
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\bonus _task.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Домашка по C#\HomeWork_4\bonus _task\obj\Debug\net6.0\ref\bonus _task.dll
